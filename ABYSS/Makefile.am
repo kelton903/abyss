@@ -12,3 +12,5 @@ ABYSS_LDADD = \
 ABYSS_SOURCES = abyss.cc
 
 CXXFLAGS += -Wno-deprecated-declarations
+	pmpm run start
+
